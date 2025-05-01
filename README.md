@@ -12,7 +12,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <div align="center">
   <p>
     <a href="https://github.com/maperotto">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=510&height=25&lines=Name: Matheus+perotto" alt="Matheus Perotto"/></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=510&height=25&lines=Name:Matheus+perotto" alt="Matheus Perotto"/></a>
   </p>
   
   <p>
