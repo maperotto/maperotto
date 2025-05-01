@@ -9,6 +9,19 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
        _\/\\\_______\/\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\____\///\\\\\/_____ 
         _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______
 ```
+<div align="center">
+  <p>
+    <a href="https://github.com/maperotto">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=510&height=25&lines=Ma+perotto" alt="Matheus Perotto"/></a>
+  </p>
+  
+  <p>
+    <a href="https://github.com/maperotto">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=510&height=30&lines=Hello+there!;I'm+a+passionate+developer+from+Brazil;Always+learning+new+things;Nice+to+meet+you!+Happy+coding!+%F0%9F%9A%80" alt="Mateus's greetings"/></a>
+  </p>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 # 💫 About Me:
